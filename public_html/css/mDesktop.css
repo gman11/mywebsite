@@ -1,0 +1,55 @@
+
+.chevronLogo
+{
+    
+     background-image: url("images/mDesktopchevronLogo.png");
+     background-position: left; 
+     background-repeat: no-repeat; 
+}
+.shayLogo
+{
+    background-image: url("images/mDesktopshayLogo.png");
+    background-position: right;
+    background-repeat: no-repeat;
+   
+}
+.topCon
+{
+    height:82px;
+    color:white;
+   
+}
+.rowTitle
+{
+   // border:1px #33ff33 solid;
+    height:82px; 
+}
+.title
+{    
+     //border: 1px coral solid;
+     height: 80px;
+    
+     font-size: 37px;
+     font-weight: bold;
+     padding-top: 26px;
+     margin-top: 0;
+   
+}
+.subTitle
+{
+    //border:1px purple solid;
+    height:80px;
+    padding-top:52px;
+    margin-top:0;
+}
+.rightBar
+{
+ padding-left:30px;
+}
+
+/*Location List View*/ 
+.locInfo
+{
+    border:1px greenyellow solid;
+    padding-left: 50px;
+}

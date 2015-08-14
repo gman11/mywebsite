@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 31, 2015, 3:32:51 PM
+    Author     : eguerrero
+*/
+.chevronLogo
+{
+    
+    
+     background-image: url("images/lDesktopchevronLogo.png");
+     background-position: left; 
+     background-repeat: no-repeat; 
+  
+}
+.shayLogo
+{
+  
+    background-position: right;
+    background-repeat: no-repeat;
+    
+    background-image: url("images/lDesktopshayLogo.png");
+  
+}
+.topCon
+{
+    height:98px;
+    color:white;
+}
+.rowTitle
+{
+    //border:1px white solid;
+    height: 98px;
+}
+.title
+{    
+    // border: 1px red solid;
+     text-align: center;
+     font-size: 45px;
+     font-weight: bold;
+     padding-top: 32px;
+     height: 96px;
+     margin: 0;
+    
+     
+     
+   
+}
+.subTitle
+{
+   // border:1px red solid;
+    height: 96px;
+    padding-top:66px;
+    margin:0;
+}
+.rightBar
+{
+ padding-left:80px;
+}
+
+/*Location List View*/ 
+.locInfo
+{
+    border:1px aqua solid;
+    padding-left: 100px;
+}
+
+
